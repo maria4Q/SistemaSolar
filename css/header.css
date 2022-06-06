@@ -1,1 +1,20 @@
 /*maria R*/
+header{
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    justify-content: space-between;
+    height: 3rem;
+}
+.nav{
+    list-style: none;
+    text-decoration: none;
+    width: 300px;
+    font-size: 0.8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+ul a {
+    color: black;
+    text-decoration: none;
+}
