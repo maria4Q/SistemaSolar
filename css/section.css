@@ -1,1 +1,199 @@
 /*Cristopher*/
+.sec{
+    width:1366px;
+    height:511px;
+    margin:auto;
+}
+
+.sistem_planets{
+    width:1366px;
+    height:511px;
+    box-sizing: border-box;
+
+}
+
+.planet{
+    position:absolute;
+    width:12rem;
+    height:45rem;
+
+   display:none;
+
+/*--------------------------------*/
+    
+}
+
+.titulo1{
+    position:absolute;
+    color:#D9D9D9;
+
+    margin-top:420px;
+    margin-left:16rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:25px;
+    
+}
+
+.parrafo1{
+    position:absolute;
+    color:#D9D9D9;
+    margin-top:28rem;
+    margin-left:14rem;
+    font-size:10px;
+    width:13rem;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/*--------------------------------*/
+
+.titulo2{
+    position:absolute;
+    color:#D9D9D9;
+
+    margin-top:4.5rem;
+    margin-left:22rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:25px;
+    
+}
+
+.parrafo2{
+    position:absolute;
+    color:#D9D9D9;
+    margin-top:2rem;
+    margin-left:19rem;
+    font-size:10px;
+    width:12rem;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/*--------------------------------*/
+
+.titulo3{
+    position:absolute;
+    color:#D9D9D9;
+
+    margin-top:26.3rem;
+    margin-left:41rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:25px;
+    
+}
+
+.parrafo3{
+    position:absolute;
+    color:#D9D9D9;
+    margin-top:28rem;
+    margin-left:38rem;
+    font-size:10px;
+    width:14rem;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/*--------------------------------*/
+
+.titulo4{
+    position:absolute;
+    color:#D9D9D9;
+
+    margin-top:4.5rem;
+    margin-left:54rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:25px;
+    
+}
+
+.parrafo4{
+    position:absolute;
+    color:#D9D9D9;
+    margin-top:1.5rem;
+    margin-left:52rem;
+    font-size:10px;
+    width:13rem;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/*--------------------------------*/
+
+.titulo5{
+    position:absolute;
+    color:#D9D9D9;
+
+    margin-top:26rem;
+    margin-left:76rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:25px;
+    
+}
+
+.parrafo5{
+    position:absolute;
+    color:#D9D9D9;
+    margin-top:28rem;
+    margin-left:74rem;
+    font-size:10px;
+    width:10rem;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/*-----------EVENTO CLICK--------*/
+
+.p1{
+    position:absolute;
+    width:3rem;
+    height:3rem;
+    border-radius:100%;
+
+
+    margin-top:13.5rem;
+    margin-left:19rem;
+}
+
+.p2{
+    position:absolute;
+    width:3rem;
+    height:3rem;
+    border-radius:100%;
+    
+
+    margin-top:13.5rem;
+    margin-left:23.8rem;
+}
+
+.p3{
+    position:absolute;
+    width:9rem;
+    height:9rem;
+    border-radius:100%;
+ 
+
+    margin-top:10.5rem;
+    margin-left:40.5rem;
+}
+
+.p4{
+    position:absolute;
+    width:6rem;
+    height:6rem;
+    border-radius:100%;
+
+
+    margin-top:12rem;
+    margin-left:54.5rem;
+}
+
+.p5{
+    position:absolute;
+    width:3rem;
+    height:3rem;
+    border-radius:100%;
+
+
+    margin-top:13.5rem;
+    margin-left:77.8rem;
+}
