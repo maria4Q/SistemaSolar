@@ -1,1 +1,19 @@
 /*footer*/
+*{
+    margin: 1rem;
+    padding: 0;
+}
+span{
+    margin-left: 2rem;
+    font-family: 'Inter', sans-serif;
+}
+.conteiner{
+    height: 23rem;
+    display: flex;
+}
+.hijo{
+    margin: auto;
+    width: 13rem;
+    height: 20rem;
+    background-color: #D9D9D9;
+}
